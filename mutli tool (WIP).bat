@@ -2,7 +2,6 @@ echo off
 title kaos's multi tool
 color 2
 cls
-REM get out of the code little boy, im watching you
 echo hi there %username% this is a WIP still so be mindful of any bugs and enjoy 
 pause
 goto :kaos
@@ -2261,8 +2260,3 @@ echo.
   set t8=
   set t9=
 
-
-
-
-
-REM get OUT OF THE CODE
